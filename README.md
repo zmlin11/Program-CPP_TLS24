@@ -1,6 +1,4 @@
-# Program-CPP_TLS24
 Zakiah Muta'alini
-
 Ampere
 
 ini merupakan program "Billing Warnet" yang digunakan ntuk menghitung billing warnet tergantung dengan paket dan banyaknya komputer yang dipilih dengan menggunakan if di dalam looping. Di sini ada menggunakan do-while untuk melooping jika ada kesalahan pengisian data. 
